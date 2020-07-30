@@ -177,9 +177,9 @@ a.social:hover {
 
 .experience {
   text-align: center;
-  background: url('images/portland.jpg') no-repeat top center;
+  background: url('images/book.png') no-repeat bottom center;
   background-size: cover;
-  background-color: rgb(78, 185, 207, 0.6);
+  background-color: rgba(207, 78, 132, 0.4);
   background-blend-mode: screen;
   overflow: hidden;
   padding-top: 60px;
