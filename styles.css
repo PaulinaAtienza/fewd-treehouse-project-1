@@ -9,7 +9,7 @@ body {
   text-align: center;
   font-family: 'Roboto', sans-serif;
   color: #222;
-  background: url('images/pattern.jpg') no-repeat bottom center;
+  background: url('images/pattern.jpg') no-repeat center center;
   background-size: cover;
   background-color: rgb(247, 245, 240, 0.95);
   background-blend-mode: screen;
