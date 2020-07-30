@@ -193,9 +193,9 @@ a.social:hover {
 
 .hobbies {
   text-align: center;
-  background: url('images/portland.jpg') no-repeat top center;
+  background: url('images/vendingmachine.png') no-repeat center center;
   background-size: cover;
-  background-color: rgb(78, 185, 207, 0.6);
+  background-color: rgb(78, 185, 207, 0.4);
   background-blend-mode: screen;
   overflow: hidden;
   padding-top: 60px;
