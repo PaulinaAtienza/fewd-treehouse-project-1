@@ -18,7 +18,7 @@ a {
   color: #999;
 }
 a:hover {
-  color: #6633ff;
+  color: #ff48ad;
 }
 
 /* Section Styles */
@@ -99,7 +99,7 @@ header .profile-image:hover {
   transition: all .5s;
 }
 .card:hover {
-  border-color: #99bdff;
+  border-color: #99f3ff;
 }
 
 ul.skills {
