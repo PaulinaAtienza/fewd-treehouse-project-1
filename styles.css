@@ -173,6 +173,38 @@ a.social:hover {
   clear: both;
 }
 
+/* Experience Header Style */
+
+.experience {
+  text-align: center;
+  background: url('images/portland.jpg') no-repeat top center;
+  background-size: cover;
+  background-color: rgb(78, 185, 207, 0.6);
+  background-blend-mode: screen;
+  overflow: hidden;
+  padding-top: 60px;
+  box-shadow: 0 8px 6px -6px black;
+}
+.experience {
+  line-height: 1.5;
+}
+
+/* Hobbies Header Style */
+
+.hobbies {
+  text-align: center;
+  background: url('images/portland.jpg') no-repeat top center;
+  background-size: cover;
+  background-color: rgb(78, 185, 207, 0.6);
+  background-blend-mode: screen;
+  overflow: hidden;
+  padding-top: 60px;
+  box-shadow: 0 8px 6px -6px black;
+}
+.hobbies {
+  line-height: 1.5;
+}
+
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
   
